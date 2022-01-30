@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "test": "testcafe chrome tests/ninjatests/functionTest.js"
+    },
+    "dependencies": {
+        "axios": "^0.25.0"
+    }
+}
